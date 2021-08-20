@@ -1,4 +1,4 @@
-## Hello World, I'm Lucas Renu
+## Olá, sou Lucas Renu
 
 <!--
 **lucasrenu/lucasrenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,15 +7,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-- 🖥️ I'm a beginner in technology.
-- 🎯 Focused on Learning everything about IA, Development and Pentest.
-
+- 🖥️ Sou iniciante na área de tecnologia.
+- 🎯 Estou focado em aprender tudo sobre IA, Desenvolvimento e Pentest. ~~(Ok, talvez um pouco desfocado.)~~
 #
 
  <div style="display: inline_block" align="center">
@@ -45,4 +43,4 @@ Here are some ideas to get you started:
   <!--<a href="https://t.me/username" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> -->
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=lucasrenu&color=blueviolet&label=👀" alt="lucasrenu" />
+<!--<img src="https://komarev.com/ghpvc/?username=lucasrenu&color=blueviolet&label=👀" alt="lucasrenu" />
