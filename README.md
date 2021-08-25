@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 - 🖥️ Sou iniciante na área de tecnologia.
 - 🎯 Estou focado em aprender tudo sobre IA, Desenvolvimento e Pentest. ~~(Ok, talvez um pouco desfocado.)~~
+- 🎢 Trabalhando em minha vida, mas aceito outras propostas.
 #
 
  <div style="display: inline_block" align="center">
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
   <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrenu&layout=compact&langs_count=6&theme=material-palenight&count_private=true&locale=pt-br&border_radius=30"/>
 </div>
 
-<!--
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
@@ -31,10 +31,14 @@ Here are some ideas to get you started:
   <img align="center" alt="Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
--->
+
   ##
   
 <div align="center"> 
