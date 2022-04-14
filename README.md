@@ -1,7 +1,16 @@
-## Olá, sou Lucas Renu
+##
 
-- 🖥️ Estudante de Análise e Desenvolvimento de Sistemas.
-- 🎯 Aprendendo sobre IA, Desenvolvimento e Pentest.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Olá+👋,+Sou+Lucas+Renu!;Seja+bem-vindo(a)+ao+meu+Perfil!;Atualmente+Estou+Cursando+ADS+👨‍💻;)](https://git.io/typing-svg)
+
+### Sobre mim:
+
+- 👨‍🎓 Cusando Análise e Desenvolvimento de Sistemas.
+
+- 🎯 Meu passatempo é estudar sobre IA, Desenvolvimento e Pentest.
+
+- 👨‍💻 [Meus Projetos e Portifolio](https://lucasrenu.github.io/lucasrenu/) (🧰Em obras!🛠)
+
+- 🎮 Pode parecer estranho, mas refiro jogos retrô.
 
 #
 
