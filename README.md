@@ -6,11 +6,11 @@
 
 - 👨‍🎓 Cusando Análise e Desenvolvimento de Sistemas.
 
-- 🎯 Meu passatempo é estudar sobre IA, Desenvolvimento e Pentest.
+<!-- 🎯 Meu passatempo é estudar sobre IA, Desenvolvimento e Pentest. -->
 
 - 👨‍💻 [Meus Projetos e Portifolio](https://lucasrenu.github.io/lucasrenu/) (🧰Em obras!🛠)
 
-- 🎮 Pode parecer estranho, mas refiro jogos retrô.
+- 🎮 Prefiro jogos retrô.
 
 #
 
