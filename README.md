@@ -1,12 +1,9 @@
-##
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Olá+👋,+Sou+Lucas+Renu!;Seja+bem-vindo(a)+ao+meu+Perfil+👨‍💻!;)](https://git.io/typing-svg)
+## Olá
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Olá+👋,+Sou+Lucas+Renu!;Seja+bem-vindo(a)+ao+meu+Perfil+👨‍💻!;)](https://git.io/typing-svg) -->
 
 ### Sobre mim:
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
-
-<!-- 🎯 Meu passatempo é estudar sobre IA, Desenvolvimento e Pentest. -->
 
 - 👨‍💻 [Meus Projetos e Portifolio](https://lucasrenu.github.io/lucasrenu/) (🧰Em obras!🛠)
 
@@ -21,23 +18,20 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Godot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="./assets/python-original.svg">
+  <img align="center" alt="Godot" height="30" width="40" src="./assets/godot-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="./assets/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="./assets/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="./assets/javascript-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="./assets/java-original.svg">
+  <img align="center" alt="MySql" height="30" width="40" src="./assets/mysql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="./assets/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="./assets/github-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="./assets/linux-original.svg">
 </div>
 
 #
-  
-<div align="center"> 
-  <a href = "mailto:lucasrenu@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lucas_renu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
-<!--<img src="https://komarev.com/ghpvc/?username=lucasrenu&color=blueviolet&label=👀" alt="lucasrenu" />-->
+![Snake animation](https://github.com/lucasrenu/lucasrenu/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://komarev.com/ghpvc/?username=lucasrenu&color=blueviolet&label=👀" alt="lucasrenu"/>
