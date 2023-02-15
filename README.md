@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas.
 
-- 👨‍💻 [Meus Projetos e Portifolio](https://lucasrenu.github.io/lucasrenu/) (🧰Em obras!🛠)
+- 👨‍💻 [Meus Projetos e Portifolio](https://lucasrenu.github.io/) (🧰Em obras!🛠)
 
 - 🎮 Prefiro jogos retrô.
 
